@@ -1,0 +1,100 @@
+
+{
+  "format_version": "1.19.30",
+
+  "minecraft:grass": {
+    "textures": {
+      "up": "grass_top",
+      "side": "grass_side",
+      "down": "dirt"
+    }
+  },
+
+  "minecraft:dirt": {
+    "textures": "dirt"
+  },
+
+  "minecraft:coarse_dirt": {
+    "textures": "coarse_dirt"
+  },
+
+  "minecraft:dirt_with_roots": {
+    "textures": "rooted_dirt"
+  },
+
+  "minecraft:podzol": {
+    "textures": {
+      "up": "podzol_top",
+      "side": "podzol_side",
+      "down": "dirt"
+    }
+  },
+
+  "minecraft:mycelium": {
+    "textures": {
+      "up": "mycelium_top",
+      "side": "mycelium_side",
+      "down": "dirt"
+    }
+  },
+
+  "minecraft:moss_block": {
+    "textures": "moss_block"
+  },
+
+  "minecraft:gravel": {
+    "textures": "gravel"
+  },
+
+  "minecraft:clay": {
+    "textures": "clay"
+  },
+
+  "minecraft:mud": {
+    "textures": "mud"
+  },
+
+  "minecraft:snow": {
+    "textures": "snow"
+  },
+
+  "minecraft:sand": {
+    "textures": "sand"
+  },
+
+  "minecraft:red_sand": {
+    "textures": "red_sand"
+  },
+
+  "minecraft:leaves": {
+    "textures": "oak_leaves"
+  },
+
+  "minecraft:leaves2": {
+    "textures": "acacia_leaves"
+  },
+
+  "minecraft:spruce_leaves": {
+    "textures": "spruce_leaves"
+  },
+
+  "minecraft:birch_leaves": {
+    "textures": "birch_leaves"
+  },
+
+  "minecraft:jungle_leaves": {
+    "textures": "jungle_leaves"
+  },
+
+  "minecraft:dark_oak_leaves": {
+    "textures": "dark_oak_leaves"
+  },
+
+  "minecraft:mangrove_leaves": {
+    "textures": "mangrove_leaves"
+  },
+
+  "minecraft:cherry_leaves": {
+    "textures": "cherry_leaves"
+  }
+}
