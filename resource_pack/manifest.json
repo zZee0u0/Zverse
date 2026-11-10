@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "ZVerse",
+    "description": "A realistic visual upgrade for Minecraft Bedrock, crafted to make every world feel more alive.",
+    "uuid": "a71e4d92-6b35-4f80-9c21-5d8a3e7b2046",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 60]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c82f5a13-7d46-4b91-ae32-6f9b4c1d8057",
+      "version": [1, 0, 0]
+    }
+  ]
+}
