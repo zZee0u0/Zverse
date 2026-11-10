@@ -4,97 +4,73 @@
 
   "minecraft:grass": {
     "textures": {
-      "up": "grass_top",
-      "side": "grass_side",
-      "down": "dirt"
+      "up": "zverse:grass_top",
+      "side": "zverse:grass_side",
+      "down": "zverse:dirt"
     }
   },
 
   "minecraft:dirt": {
-    "textures": "dirt"
+    "textures": "zverse:dirt"
   },
 
   "minecraft:coarse_dirt": {
-    "textures": "coarse_dirt"
+    "textures": "zverse:coarse_dirt"
   },
 
   "minecraft:dirt_with_roots": {
-    "textures": "rooted_dirt"
+    "textures": "zverse:rooted_dirt"
   },
 
   "minecraft:podzol": {
     "textures": {
-      "up": "podzol_top",
-      "side": "podzol_side",
-      "down": "dirt"
+      "up": "zverse:podzol_top",
+      "side": "zverse:podzol_side",
+      "down": "zverse:dirt"
     }
   },
 
   "minecraft:mycelium": {
     "textures": {
-      "up": "mycelium_top",
-      "side": "mycelium_side",
-      "down": "dirt"
+      "up": "zverse:mycelium_top",
+      "side": "zverse:mycelium_side",
+      "down": "zverse:dirt"
     }
   },
 
   "minecraft:moss_block": {
-    "textures": "moss_block"
+    "textures": "zverse:moss_block"
   },
 
   "minecraft:gravel": {
-    "textures": "gravel"
+    "textures": "zverse:gravel"
   },
 
   "minecraft:clay": {
-    "textures": "clay"
+    "textures": "zverse:clay"
   },
 
   "minecraft:mud": {
-    "textures": "mud"
+    "textures": "zverse:mud"
   },
 
   "minecraft:snow": {
-    "textures": "snow"
+    "textures": "zverse:snow"
   },
 
   "minecraft:sand": {
-    "textures": "sand"
+    "textures": "zverse:sand"
   },
 
   "minecraft:red_sand": {
-    "textures": "red_sand"
+    "textures": "zverse:red_sand"
   },
 
   "minecraft:leaves": {
-    "textures": "oak_leaves"
+    "textures": "zverse:oak_leaves"
   },
 
   "minecraft:leaves2": {
-    "textures": "acacia_leaves"
-  },
-
-  "minecraft:spruce_leaves": {
-    "textures": "spruce_leaves"
-  },
-
-  "minecraft:birch_leaves": {
-    "textures": "birch_leaves"
-  },
-
-  "minecraft:jungle_leaves": {
-    "textures": "jungle_leaves"
-  },
-
-  "minecraft:dark_oak_leaves": {
-    "textures": "dark_oak_leaves"
-  },
-
-  "minecraft:mangrove_leaves": {
-    "textures": "mangrove_leaves"
-  },
-
-  "minecraft:cherry_leaves": {
-    "textures": "cherry_leaves"
+    "textures": "zverse:acacia_leaves"
   }
 }
