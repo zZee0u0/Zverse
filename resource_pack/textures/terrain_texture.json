@@ -1,0 +1,78 @@
+{
+  "resource_pack_name": "ZVerse",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "zverse:grass_top": {
+      "textures": "textures/blocks/nature/grass/grass_top"
+    },
+    "zverse:grass_side": {
+      "textures": "textures/blocks/nature/grass/grass_side"
+    },
+    "zverse:dirt": {
+      "textures": "textures/blocks/nature/dirt/dirt"
+    },
+    "zverse:coarse_dirt": {
+      "textures": "textures/blocks/nature/dirt/coarse_dirt"
+    },
+    "zverse:rooted_dirt": {
+      "textures": "textures/blocks/nature/dirt/rooted_dirt"
+    },
+    "zverse:podzol_top": {
+      "textures": "textures/blocks/nature/ground/podzol_top"
+    },
+    "zverse:podzol_side": {
+      "textures": "textures/blocks/nature/ground/podzol_side"
+    },
+    "zverse:mycelium_top": {
+      "textures": "textures/blocks/nature/ground/mycelium_top"
+    },
+    "zverse:mycelium_side": {
+      "textures": "textures/blocks/nature/ground/mycelium_side"
+    },
+    "zverse:moss_block": {
+      "textures": "textures/blocks/nature/ground/moss_block"
+    },
+    "zverse:gravel": {
+      "textures": "textures/blocks/nature/ground/gravel"
+    },
+    "zverse:clay": {
+      "textures": "textures/blocks/nature/ground/clay"
+    },
+    "zverse:mud": {
+      "textures": "textures/blocks/nature/ground/mud"
+    },
+    "zverse:snow": {
+      "textures": "textures/blocks/nature/ground/snow"
+    },
+    "zverse:sand": {
+      "textures": "textures/blocks/nature/ground/sand"
+    },
+    "zverse:red_sand": {
+      "textures": "textures/blocks/nature/ground/red_sand"
+    },
+    "zverse:oak_leaves": {
+      "textures": "textures/blocks/nature/leaves/oak_leaves"
+    },
+    "zverse:spruce_leaves": {
+      "textures": "textures/blocks/nature/leaves/spruce_leaves"
+    },
+    "zverse:birch_leaves": {
+      "textures": "textures/blocks/nature/leaves/birch_leaves"
+    },
+    "zverse:jungle_leaves": {
+      "textures": "textures/blocks/nature/leaves/jungle_leaves"
+    },
+    "zverse:acacia_leaves": {
+      "textures": "textures/blocks/nature/leaves/acacia_leaves"
+    },
+    "zverse:dark_oak_leaves": {
+      "textures": "textures/blocks/nature/leaves/dark_oak_leaves"
+    },
+    "zverse:mangrove_leaves": {
+      "textures": "textures/blocks/nature/leaves/mangrove_leaves"
+    },
+    "zverse:cherry_leaves": {
+      "textures": "textures/blocks/nature/leaves/cherry_leaves"
+    }
+  }
+}
